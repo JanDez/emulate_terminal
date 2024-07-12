@@ -1,6 +1,6 @@
 package main
 
-import "emulate_terminal/cmd"
+import "github.com/JanDez/emulate_terminal/cmd"
 
 func main() {
 	cmd.Execute()
