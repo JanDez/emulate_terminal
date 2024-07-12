@@ -7,7 +7,7 @@ Emulate Terminal is a simple command-line application built with Go and the Cobr
 To install Emulate Terminal, make sure you have Go installed on your system, then run:
 
 ```
-go get github.com/JanDez/emulate_terminal
+go install github.com/JanDez/emulate_terminal@latest
 ```
 
 ## Usage
